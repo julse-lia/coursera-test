@@ -25,7 +25,6 @@ body h1{
 }
 section h3{
 	color: red;
-	text-align: center;
   font-size: 1.4em;
 }
 
@@ -71,3 +70,17 @@ section h3{
      clear: both;
      margin-top: -30px;
 }
+  .row {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+. {
+  box-sizing: border-box;
+}
+
+#chicken, #beef, #sushi{
+  height: 1100px;
+}
+
+
